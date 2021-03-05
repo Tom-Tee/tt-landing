@@ -16,6 +16,7 @@
 
  body {
   font-family: 'Dosis', sans-serif;
+  background-color: #f7f7f7;
  }
 
 .landing {
@@ -26,6 +27,7 @@
   top: 0;
   font-family: 'Dosis', sans-serif;
   font-weight: 400;
+  color: #f7f7f7;
 }
 
 .header {
@@ -34,8 +36,10 @@
 }
 
 .container {
-  color:white;
+  font-family: 'Dosis', sans-serif;
 }
+
+
 
 .bi-laptop {
   color:#FC1049;
@@ -55,6 +59,7 @@
 .info-bar p {
   font-size: 18px;
   font-weight: 200;
+  color: #404040;
 }
 
 .basic-text {
@@ -62,5 +67,11 @@
 }
 
 .portfolio {
-  background-color: #FCF5E7;
+  /*background-color: #FCF5E7;*/
+}
+
+.port-img {
+  height: 269px;
+  width:400px;
+  border-radius: 8px;
 }
