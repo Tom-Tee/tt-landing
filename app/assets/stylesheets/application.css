@@ -71,7 +71,9 @@
 }
 
 .port-img {
-  height: 269px;
+  height: 295px;
   width:400px;
   border-radius: 8px;
+    border-style: solid;
+    border-color: rgb(58, 59, 60);
 }
