@@ -48,13 +48,19 @@
   font-weight: 400;
 }
 
+.icon {
+  color:#FC1049;
+}
+
 .info-bar p {
   font-size: 18px;
+  font-weight: 200;
 }
 
 .basic-text {
   color:black;
 }
 
-
-
+.portfolio {
+  background-color: #FCF5E7;
+}
